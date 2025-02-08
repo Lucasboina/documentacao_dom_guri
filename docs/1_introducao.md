@@ -51,6 +51,3 @@ Este documento destina-se a:
 - Gerentes e proprietários da Cervejaria DOM GURI.
 - Clientes e usuários finais do sistema.
 - Parceiros e fornecedores envolvidos no projeto
-
-
-![Nome Imagem](./img/images.jpg)
