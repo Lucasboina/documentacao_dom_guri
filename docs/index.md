@@ -2,14 +2,12 @@
 layout: home
 
 hero:
-  name: VitePress
-  text: Vite & Vue powered static site generator.
-  tagline: Simple, powerful, and performant. Meet the modern SSG framework you've always wanted.
+  name: DomGuri Brewhose
+  text: Documentação do site para a cervejaria DomGuri Brewhose
+  tagline: Versão 1.0
+  
   actions:
     - theme: brand
-      text: Get Started
-      link: /example
-    - theme: alt
-      text: View on GitHub
-      link: https://github.com/vuejs/vitepress
+      text: Veja a documentação
+      link: /1_introducao.md  
 ---
