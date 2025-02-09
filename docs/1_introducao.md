@@ -1,5 +1,6 @@
 
-[Logo da Empresa/Organização]
+![Logo empresa](images/logo_empresa.PNG)
+
 
 Nome do Projeto: Cervejaria DOM GURI
 
