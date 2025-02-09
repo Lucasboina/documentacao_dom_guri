@@ -1,6 +1,6 @@
 # 4.1 Descrição de Caso de Uso  
 
-![diagrama de casos de uso](images/casos_uso.PNG)
+![diagrama de casos de uso](images/Casos_de_Uso.jpg)
 
 1. **Caso de Uso: Cadastro de Eventos**  
    - **Ator**: Administrador.  

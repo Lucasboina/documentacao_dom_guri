@@ -2,13 +2,13 @@ import { defineConfig } from 'vitepress';
 
 // refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
-  lang: 'en-US',
+  lang: 'pt-BR',
   title: 'VitePress',
   description: 'Vite & Vue powered static site generator.',
 
   themeConfig: {
     nav: [
-      { text: 'Example', link: '/example' },
+      { text: 'Documentação', link: '/example' },
 
       // {
       //   text: 'Dropdown Menu',

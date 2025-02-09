@@ -1,5 +1,5 @@
 
-![Logo empresa](images/logo_empresa.PNG)
+![Logo empresa](images/logoBranca.jpg)
 
 
 Nome do Projeto: Cervejaria DOM GURI
@@ -15,7 +15,39 @@ Lucas Molozzi Mantelli, Yuri Magnan
 
 # 1\. Introdução
 
-“Texto de introdução”
+## Minimundo: Sistema de Vendas de Cerveja  
+
+A cervejaria **DOM GURI** tem como objetivo criar um sistema de vendas que facilite o acesso dos clientes aos produtos, amplie o alcance das vendas e proporcione uma experiência de compra personalizada e interativa, tudo isso em um ambiente simples e dinâmico.  
+
+Para atingir esses objetivos, o sistema contará com um **catálogo de produtos**, exibindo uma lista das cervejas e demais produtos disponíveis com imagens e descrições detalhadas das características, como ingredientes, teor alcoólico e sugestões para consumo, por exemplo.  
+
+Os **administradores do sistema** poderão gerenciar esse catálogo, realizando o cadastro, edição e remoção de produtos, além de controlar a disponibilidade dos mesmos.  
+
+Durante o **processo de compra**, o cliente poderá:  
+- Adicionar mais de um produto ao seu carrinho;  
+- Ajustar a quantidade e remover itens antes da finalização do pedido;  
+- Realizar a compra simultânea de diferentes cervejas no site.  
+
+Para proporcionar uma melhor experiência e segurança ao cliente, o sistema contará também com um **cadastro de login**, no qual os clientes poderão:  
+- Criar suas contas;  
+- Visualizar os históricos de pedidos;  
+- Atualizar suas informações pessoais se necessário;  
+- Acompanhar suas compras.  
+
+Para o **processo de pagamento**, o sistema oferecerá uma interface intuitiva, permitindo a escolha das formas de pagamento disponíveis, como:  
+- **PIX**  
+- **Cartões de débito/crédito**  
+- **Boleto bancário**  
+
+Após a finalização do pagamento, o sistema exibirá **telas de confirmação**, informando que o pedido foi concluído com sucesso.  
+
+Para a **gestão administrativa**, o sistema poderá gerar **relatórios básicos**, apresentando dados como:  
+- Total de vendas por período;  
+- Produtos mais vendidos;  
+- Status dos pedidos.  
+
+Essas informações ajudarão os administradores a **monitorar o desempenho das vendas** e identificar oportunidades de melhoria no empreendimento.  
+
 
 ## 1\.1 Objetivo
 
