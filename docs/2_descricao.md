@@ -9,6 +9,8 @@ O sistema da Cervejaria DOM GURI será uma plataforma integrada para:
 - Relatórios e análises: Geração de relatórios de vendas, estoque e participação em eventos.  
 
 ## 2\.1\.1 Canvas
+![canvas1](images/canvas0.jpg)
+![canvas2](images/canvas1.jpg)
 
 ## 2\.2 Stakeholders 
 - Equipe DOM GURI: Responsável pelo gerenciamento de produtos, vendas e eventos.  
