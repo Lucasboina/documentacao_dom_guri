@@ -1,4 +1,4 @@
-# 7. Cronograma e Entrega
+# 7\. Cronograma e Entrega
 
 ## Fases do Projeto
 

@@ -1,42 +1,29 @@
 import { defineConfig } from 'vitepress';
 
-// refer https://vitepress.dev/reference/site-config for details
 export default defineConfig({
   lang: 'pt-BR',
-  title: 'VitePress',
-  description: 'Vite & Vue powered static site generator.',
+  title: 'Dom Guri',
+  description: 'Docs site DomGuri',
 
   themeConfig: {
     nav: [
-      { text: 'Documentação', link: '/example' },
-
-      // {
-      //   text: 'Dropdown Menu',
-      //   items: [
-      //     { text: 'Item A', link: '/item-1' },
-      //     { text: 'Item B', link: '/item-2' },
-      //     { text: 'Item C', link: '/item-3' },
-      //   ],
-      // },
-
-      // ...
+      { text: 'Docs', link: '/1_introducao.md' },
     ],
 
     sidebar: [
       {
         // text: 'Guide',
         items: [
-          { text: 'Example', link: '/example' },
-          { text: "introdução", link: '1_introducao'},
-          { text: "descrição", link: '/2_descricao'},
-          { text: "recursos", link: '/3_recursos'},
-          { text: "diagrama usos", link: '/4_diagrama_usos'},
-          { text: "diagrama classes", link: '/5_diagrama_classes'},
-          { text: "prototipo", link: '/6_prototipo'},
-          { text: "cronograma", link: '/7_cronograma'},
-          { text: "riscos", link: '/8_riscos'},
-          { text: "custos", link: '/9_custos'},
-          { text: "considerações", link: '/10_consideracoes'}
+          { text: "1. Introdução", link: '1_introducao'},
+          { text: "2. Descrição", link: '/2_descricao'},
+          { text: "3. Recursos", link: '/3_recursos'},
+          { text: "4. Diagrama caso de usos", link: '/4_diagrama_usos'},
+          { text: "5. Diagrama de classes", link: '/5_diagrama_classes'},
+          { text: "6. Prototipo", link: '/6_prototipo'},
+          { text: "7. Cronograma", link: '/7_cronograma'},
+          { text: "8. Riscos", link: '/8_riscos'},
+          { text: "9. Custos", link: '/9_custos'},
+          { text: "10. Considerações finais", link: '/10_consideracoes'}
           // ...
         ],
       },

@@ -26,20 +26,13 @@ Os **administradores do sistema** poderão gerenciar esse catálogo, realizando 
 Durante o **processo de compra**, o cliente poderá:  
 - Adicionar mais de um produto ao seu carrinho;  
 - Ajustar a quantidade e remover itens antes da finalização do pedido;  
-- Realizar a compra simultânea de diferentes cervejas no site.  
+- Realizar a reserva simultânea de diferentes cervejas no site para retirada presencialmente.  
 
 Para proporcionar uma melhor experiência e segurança ao cliente, o sistema contará também com um **cadastro de login**, no qual os clientes poderão:  
 - Criar suas contas;  
 - Visualizar os históricos de pedidos;  
 - Atualizar suas informações pessoais se necessário;  
 - Acompanhar suas compras.  
-
-Para o **processo de pagamento**, o sistema oferecerá uma interface intuitiva, permitindo a escolha das formas de pagamento disponíveis, como:  
-- **PIX**  
-- **Cartões de débito/crédito**  
-- **Boleto bancário**  
-
-Após a finalização do pagamento, o sistema exibirá **telas de confirmação**, informando que o pedido foi concluído com sucesso.  
 
 Para a **gestão administrativa**, o sistema poderá gerar **relatórios básicos**, apresentando dados como:  
 - Total de vendas por período;  

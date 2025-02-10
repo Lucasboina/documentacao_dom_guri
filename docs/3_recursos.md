@@ -1,3 +1,5 @@
+# 3\. Recursos e funcionalidades
+
 ### *Catálogo de Produtos:*  
 - Cadastrar, editar e excluir produtos (cervejas, canecas, camisetas, etc.).  
 - Classificar produtos por categorias e tipos.  
