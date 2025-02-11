@@ -4,7 +4,6 @@
 
 O sistema da Cervejaria DOM GURI será uma plataforma integrada para:  
 - Catalogamento de produtos: Cadastro, edição e exclusão de cervejas, canecas, camisetas e outros itens.  
-- Venda online: Integração com gateways de pagamento e gestão de pedidos.  
 - Divulgação de eventos: Publicação de datas, locais e detalhes de eventos onde a cervejaria estará presente.  
 - Relatórios e análises: Geração de relatórios de vendas, estoque e participação em eventos.  
 
